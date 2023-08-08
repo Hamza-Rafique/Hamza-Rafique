@@ -3,9 +3,9 @@
 Welcome to my GitHub profile! I'm a passionate Front-End Developer with a love for creating pixel-perfect designs and exploring new technologies. Here's a bit about me:
 
 - 🎓 Master's degree in Computer Science.
-- 💼 Experienced Software Engineer in the information technology and services industry.
+- 💼 Experienced Software Engineer & Senior Front-end Developer in the information technology and services industry.
 - 🌱 Always eager to learn and stay up-to-date with the latest technologies.
-- 👨‍💻 Skilled in Fullstack, MERN, Nx, Storybook, TypeScript, JavaScript, React-js, web3.0, and more.
+- 👨‍💻 Skilled in Fullstack, MERN, Nx, Storybook, TypeScript, JavaScript, React-js, web3.0, and more forcing on Front-end and UI.
 - 🎨 Enthusiastic about utilizing style libraries like Material-UI, React-bootstrap, Chakra-UI, style-system, style-component, and rebase.
 - ⚙️ Proficient in Node.js, Express, and Mongoose DB for building robust back-end systems.
 - 🌐 Front-End Development wizard with HTML-5, Bootstrap, Cascading Style Sheets (CSS), and SCSS.
