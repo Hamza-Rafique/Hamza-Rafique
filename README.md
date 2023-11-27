@@ -1,4 +1,6 @@
 # Hamza Rafique
+![Alt Text](![image](https://github.com/Hamza-Rafique/Hamza-Rafique/assets/47114943/ac405ac1-6977-4685-bc93-227d69f4da2f))
+
 
 Lahore, Punjab, Pakistan  
 Email: hamzarafique964@gmail.com  
