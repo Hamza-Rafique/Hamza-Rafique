@@ -1,4 +1,4 @@
-![Alt Text](https://github.com/Carol42/Carol42/raw/main/assets/header.png))
+![Alt Text](https://github.com/Carol42/Carol42/raw/main/assets/header.png)
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Hamza;He/him;Front-end+Engineer+;From+Pakistan;MERN stack Developer;UI+Developer;Sotrybook developer" alt="Computer Engineering Student, pakistan front-end developer"></a>
 </div>
