@@ -30,21 +30,21 @@
 </br></br>
 <h2>:busts_in_silhouette: How to reach me</h2>
 <a href="https://github.com/Hamza-Rafique">
-    <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/Carol42?style=for-the-badge&color=181717&logo=github&logoColor=181717&label=@Carol42" height="22px">
+    <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/Carol42?style=for-the-badge&color=181717&logo=github&logoColor=181717&label=@Hamza-Rafique" height="22px">
 </a>
 
 <a href="https://twitter.com/HamzaRafique964">
-    <img alt="Link to my Twitter" src="https://img.shields.io/twitter/follow/Carol_Heloo?style=for-the-badge&label=@Carol_Heloo&color=1DA1F2&logo=twitter" height="22px">
+    <img alt="Link to my Twitter" src="https://img.shields.io/twitter/follow/Carol_Heloo?style=for-the-badge&label=@HamzaRafique964&color=1DA1F2&logo=twitter" height="22px">
 </a>
 <a href="https://linkedin.com/in/hamza-rafique-mehar/">
     <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/carol42&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
 </a>
 </a>
 <a href="mailto:hamzarafique964@gmail.com">
-    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=carol42.helo@gmail.com&color=whitesmoke&style=for-the-badge&logo=gmail" height="22px" />
+    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=hamzarafique964@gmail.com&color=whitesmoke&style=for-the-badge&logo=gmail" height="22px" />
 </a>
 <a href="https://codepen.io/Hamza-Rafique">
-    <img alt="link to my CodePen" src="https://img.shields.io/static/v1?label&message=/Carol42&color=000000&style=for-the-badge&logo=codepen" height="22px" />
+    <img alt="link to my CodePen" src="https://img.shields.io/static/v1?label&message=/HamzaRafique&color=000000&style=for-the-badge&logo=codepen" height="22px" />
 </a>
 </br
 Lahore, Punjab, Pakistan  
