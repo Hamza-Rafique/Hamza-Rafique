@@ -3,6 +3,12 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Hamza;He/him;Front-end+Engineer+;From+Pakistan;MERN stack Developer;UI+Developer;Sotrybook developer" alt="Computer Engineering Student, pakistan front-end developer"></a>
 </div>
 
+
+<a href="https://github.com/Hamza-Rafique/Hamza-Rafique/actions/workflows/lastfm.yml">
+<img src="https://github.com/Hamza-Rafique/Hamza-Rafique/actions/workflows/lastfm.yml/badge.svg" alt="lastfm-to-markdown workflow status" ></a>
+<a href="https://github.com/Hamza-Rafique/Hamza-Rafique/actions/workflows/update-snk.yml"><img src="https://github.com/Hamza-Rafique/Hamza-Rafique/actions/workflows/update-snk.yml/badge.svg" alt="Generate Datas workflow status" ></a>
+<a href="https://github.com/Hamza-Rafique/Hamza-Rafique/actions/workflows/recent-activity.yml"><img src="https://github.com/Hamza-Rafique/Hamza-Rafique/actions/workflows/recent-activity.yml/badge.svg" alt="Recent Activity workflow status" ></a>
+
 Lahore, Punjab, Pakistan  
 Email: hamzarafique964@gmail.com  
 Mobile: +923056168840  
