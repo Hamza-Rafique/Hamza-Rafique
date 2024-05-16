@@ -56,7 +56,7 @@ Portfolio: [hamza-rafique.netlify.app](https://hamza-rafique.netlify.app/)
 ## Summary
 
 Experienced Software Engineer | Senior Front-End & MERN Stack Developer  
-Master's in Computer Science | 6+ years of experience in Front-end (HTML, HTML5, CSS/ CSS3, Reactjs) | 1+ in Full Stack  
+Master's in Computer Science | 6+ years of experience in Front-end (HTML, HTML5, CSS/ CSS3, Reactjs) | 3+ in Full Stack  
 Passionate about pixel-perfect designs, innovative solutions, and new technologies. Proficient in JavaScript, TypeScript, React.js, (React Redux, Redux Toolkit, MobX), Material-UI, Chakra-UI, React-Bootstrap, Tailwind CSS, UI libraries, HTML5, CSS3, Accessibility Standards W3c AAA. On the backend side Node.js, Express.js, MongoDB, GraphQL, SQL. For Design system and documentation, I use Storybook, CMS, Contentful, HubSpot. Web 3.0, Web3.js, Ether.js, Leaflet.js, OpenLayers.js.
 
 ## Experience
