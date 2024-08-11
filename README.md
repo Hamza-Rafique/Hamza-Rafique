@@ -61,13 +61,14 @@ Passionate about pixel-perfect designs, innovative solutions, and new technologi
 
 ## Experience
 
-### Senior Frontend Developer at Rapidev
-_Dec 2022 - Present (1 year)_
+### Software Engineer at Information & eGovernment Authority
+_Apr 2024 - Present ·_
+We are building user-friendly government applications (front-end, back-end) with GIS integration (maps)—experience with end-user & office staff projects.
 
 ### Senior Software Engineer at Rapidev
-_Jan 2023 - Present (10 months)_
+_March 202 - Apr 2024_
 
-As a team lead frontend & UI and senior React developer(HTML, CSS, JavaScript Nextjs) at Rapidev, I had the opportunity to work closely with various teams within the organization, including management, the GIS team, the mapping library, as well as the backend and data sciences teams. Through my experiences working with these teams, I gained valuable insight into the overall functioning of the company and its strategic direction. 
+As a Senior frontend & UI and senior React developer(HTML, CSS, JavaScript Nextjs) at Rapidev, I had the opportunity to work closely with various teams within the organization, including management, the GIS team, the mapping library, as well as the backend and data sciences teams. Through my experiences working with these teams, I gained valuable insight into the overall functioning of the company and its strategic direction. 
 #My primary responsibility as a team lead was to guide my team of developers in the design, development, and deployment of various web-based applications using React. Working closely with the management team, I helped to identify business objectives and translate them into technical requirements that my team could deliver. Through regular communication and collaboration with the GIS team, I gained a deeper understanding of how mapping technologies were being utilized within Rapidev and helped to integrate these technologies into our applications. 
 
 
