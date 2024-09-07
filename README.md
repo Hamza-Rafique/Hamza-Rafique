@@ -1,6 +1,6 @@
 ![Alt Text](https://github.com/Carol42/Carol42/raw/main/assets/header.png)
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Hamza;He/him;Front-end+Engineer+;From+Pakistan;MERN stack Developer;UI+Developer;Sotrybook developer" alt="Computer Engineering Student, pakistan front-end developer"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Hamza;He/him;Front-end+Engineer+;MERN stack Developer;UI+Developer;Sotrybook developer: Data +Science + AI+ Student" alt="Computer Engineering Student, pakistan front-end developer"></a>
 </div>
 
 <h2>:bulb: Languages & Frameworks I code in</h2>
@@ -12,6 +12,16 @@
 <code><img title="NodeJS" alt="node js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>
 <code> <img title="Markdown" alt="markdown" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /></code>
 <code> <img title="Next.js" alt="next.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /></code>
+<code>
+  <img title="Data Science" alt="Data Science" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Data_Science_Icon.png" />
+</code>
+<code>
+  <img title="Artificial Intelligence" alt="AI" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/AI_Icon.png" />
+</code>
+<code>
+  <img title="Python" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+</code>
+
 </br></br>
 
 <h2>:hammer_and_wrench: Things that help me getting my code done</h2>
