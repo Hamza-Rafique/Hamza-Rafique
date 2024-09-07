@@ -1,6 +1,6 @@
 ![Alt Text](https://github.com/Carol42/Carol42/raw/main/assets/header.png)
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Hamza;He/him;Front-end+Engineer+;MERN stack Developer;UI+Developer;Sotrybook developer: Data +Science + AI+ Student" alt="Computer Engineering Student, pakistan front-end developer"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Hamza;He/him;Front-end+Engineer+;MERN stack Developer;UI+Developer;Sotrybook developer; Data +Science + AI+ Student" alt="Computer Engineering Student, pakistan front-end developer"></a>
 </div>
 
 <h2>:bulb: Languages & Frameworks I code in</h2>
@@ -12,15 +12,7 @@
 <code><img title="NodeJS" alt="node js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>
 <code> <img title="Markdown" alt="markdown" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /></code>
 <code> <img title="Next.js" alt="next.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /></code>
-<code>
-  <img title="Data Science" alt="Data Science" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Data_Science_Icon.png" />
-</code>
-<code>
-  <img title="Artificial Intelligence" alt="AI" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/AI_Icon.png" />
-</code>
-<code>
-  <img title="Python" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-</code>
+<code> <img title="Python" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> </code>
 
 </br></br>
 
@@ -56,10 +48,10 @@
     <img alt="link to my CodePen" src="https://img.shields.io/static/v1?label&message=/HamzaRafique&color=000000&style=for-the-badge&logo=codepen" height="22px" />
 </a>
 </br
-Lahore, Punjab, Pakistan  
+Born in Pakistan   Living in Bahrain
 Email: hamzarafique964@gmail.com  
-Mobile: +923056168840  
-WhatsApp: +971552505924  
+Mobile: +973 32380244 
+WhatsApp: +92 3056168840  
 LinkedIn: [hamza-rafique-mehar](https://www.linkedin.com/in/hamza-rafique-mehar/)  
 Portfolio: [hamza-rafique.netlify.app](https://hamza-rafique.netlify.app/)
 
@@ -76,19 +68,9 @@ _Apr 2024 - Present ·_
 We are building user-friendly government applications (front-end, back-end) with GIS integration (maps)—experience with end-user & office staff projects.
 
 ### Senior Software Engineer at Rapidev
-_March 202 - Apr 2024_
-
+_March 2022 - Apr 2024_
 As a Senior frontend & UI and senior React developer(HTML, CSS, JavaScript Nextjs) at Rapidev, I had the opportunity to work closely with various teams within the organization, including management, the GIS team, the mapping library, as well as the backend and data sciences teams. Through my experiences working with these teams, I gained valuable insight into the overall functioning of the company and its strategic direction. 
 #My primary responsibility as a team lead was to guide my team of developers in the design, development, and deployment of various web-based applications using React. Working closely with the management team, I helped to identify business objectives and translate them into technical requirements that my team could deliver. Through regular communication and collaboration with the GIS team, I gained a deeper understanding of how mapping technologies were being utilized within Rapidev and helped to integrate these technologies into our applications. 
-
-
-### Mid Software Engineer at BIG IMMERSIVE
-_Mar 2022 - Mar 2023 (1 year 1 month)_
-
-As a front-end developer, I have worked on multiple projects, including the Virtua product and the Virtua Island project. These projects involved creating a metaverse for selling plots and required the use of various technologies such as web3js, ReactJS, smart-contract, and wallet-integration with MetaMask. I closely collaborated with the blockchain team to ensure seamless integration and also worked closely with project managers to deliver successful projects. My experience in using these technologies and working collaboratively with teams makes me a valuable addition to any development team. 
-Hamza Rafique - page 1
-Used different styles frameworks and libraries ( Material-UI, Chakara-UI, CSS, react-bootstrap, bootstrap, Tailwind CSS,) 
-
 
 ### Software Engineer at mobileLIVE
 _Feb 2020 - Mar 2022 (2 years 2 months)_
@@ -111,7 +93,7 @@ for e-commerce and enterprise applications. The Design System includes support f
 ### FrontEnd Developer at Encoder solutions
 _Mar 2018 - Jan 2020 (1 year 11 months)_
 
-Assigning tasks to the teammates as well as giving them ideas on how to do that. Giving Reports to the Managing Director of teammates on a daily basis...
+Assigning tasks to the teammates as well as giving them ideas on how to do them. Give reports to the managing director of teammates on a daily basis.
 
 ## Education
 
