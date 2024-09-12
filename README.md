@@ -61,39 +61,49 @@ Experienced Software Engineer | Senior Front-End & MERN Stack Developer
 Master's in Computer Science | 6+ years of experience in Front-end (HTML, HTML5, CSS/ CSS3, Reactjs) | 3+ in Full Stack  
 Passionate about pixel-perfect designs, innovative solutions, and new technologies. Proficient in JavaScript, TypeScript, React.js, (React Redux, Redux Toolkit, MobX), Material-UI, Chakra-UI, React-Bootstrap, Tailwind CSS, UI libraries, HTML5, CSS3, Accessibility Standards W3c AAA. On the backend side Node.js, Express.js, MongoDB, GraphQL, SQL. For Design system and documentation, I use Storybook, CMS, Contentful, HubSpot. Web 3.0, Web3.js, Ether.js, Leaflet.js, OpenLayers.js.
 
+---
+
 ## Experience
 
 ### Software Engineer at Information & eGovernment Authority
 _Apr 2024 - Present ·_
+
 We are building user-friendly government applications (front-end, back-end) with GIS integration (maps)—experience with end-user & office staff projects.
+
 
 ### Senior Software Engineer at Rapidev
 _March 2022 - Apr 2024_
+
 As a Senior frontend & UI and senior React developer(HTML, CSS, JavaScript Nextjs) at Rapidev, I had the opportunity to work closely with various teams within the organization, including management, the GIS team, the mapping library, as well as the backend and data sciences teams. Through my experiences working with these teams, I gained valuable insight into the overall functioning of the company and its strategic direction. 
-#My primary responsibility as a team lead was to guide my team of developers in the design, development, and deployment of various web-based applications using React. Working closely with the management team, I helped to identify business objectives and translate them into technical requirements that my team could deliver. Through regular communication and collaboration with the GIS team, I gained a deeper understanding of how mapping technologies were being utilized within Rapidev and helped to integrate these technologies into our applications. 
+#My primary responsibility as a team lead was to guide my team of developers in the design, development, and deployment of various web-based applications using React. Working closely with the management team, I helped to identify business objectives and translate them into technical requirements that my team could deliver. Through regular communication and collaboration with the GIS team, I gained a deeper understanding of how mapping technologies were being utilized within Rapidev and helped to integrate these technologies into our applications.
+
+
 
 ### Software Engineer at mobileLIVE
 _Feb 2020 - Mar 2022 (2 years 2 months)_
 
-Project: E-commerce platform by Freedom Mobile based in Canada where Users can select any device according to the purchased plan. Worked as a Fullstack Developer on the frontend and backend side in a Scrum team of 12 developers. Revamped the complete frontend with React.js and Redux-Saga Wrote 
+**Project:** E-commerce platform by Freedom Mobile based in Canada where Users can select any device according to the purchased plan. Worked as a Fullstack Developer on the frontend and backend side in a Scrum team of 12 developers. Revamped the complete frontend with React.js and Redux-Saga Wrote 
 unit tests of the container components, integrated APIs, managed the application's global state with Redux-Saga, and made technical documentation. Built feature to streamline deployment with CI/CD utilizing Azure DevOps platform. Worked on the backend within APIs by following REST architecture 
 using Node.js with a monolithic approach. Implemented pagination, authentication, cron-job, and authorization on backend. 
-Telus: 
+**Telus:**
 Telus is a leading telecommunications company in Canada, providing a range of services including internet, phone, and television to consumers and businesses. 
 As part of your work with Telus, you likely collaborated with their development team to build web applications using React and GraphQL. 
 With React and GraphQL, you likely built responsive and interactive web applications that could handle large amounts of data efficiently. 
-CIBC: 
+**CIBC:**
 CIBC is a major financial institution in Canada, offering banking, investment, and other financial services to customers. 
 As part of your work with CIBC, you likely used React and GraphQL to build applications that helped manage customer accounts, transactions, and other financial data. 
 React and GraphQL's flexibility and scalability likely helped you build applications that could handle complex financial transactions and meet CIBC's requirements 
-Friday : 
-for e-commerce and enterprise applications. The Design System includes support for React, Angular and Static Components which are highly reusable for multi-brand experiences. The open-source stack includes Figma Design Kit, Storybook-based documentation of UI components, and code repositories for developer experience 
+**Friday :**
+for e-commerce and enterprise applications. The Design System includes support for React, Angular and Static Components which are highly reusable for multi-brand experiences. The open-source stack includes Figma Design Kit, Storybook-based documentation of UI components, and code repositories for developer experience.
+
 
 
 ### FrontEnd Developer at Encoder solutions
 _Mar 2018 - Jan 2020 (1 year 11 months)_
 
 Assigning tasks to the teammates as well as giving them ideas on how to do them. Give reports to the managing director of teammates on a daily basis.
+
+---
 
 ## Education
 
@@ -109,6 +119,8 @@ _Bachelor's degree, Computer Science, 2015 - 2017_
 ### Govt Degree College Zafarwal(Narowal)
 _I.cs, Computer Science, 2013 - 2015_
 
+---
+
 ## Skills
 
 - Front-end Development
@@ -121,3 +133,9 @@ _I.cs, Computer Science, 2013 - 2015_
 - Web3.js
 - Figma (Software)
 - Node.js
+- Angular
+- Stroybook
+- Redux RTK
+- Tailwind Css
+- bootstrap
+- styledcomponent
