@@ -47,7 +47,8 @@
 <a href="https://codepen.io/Hamza-Rafique">
     <img alt="link to my CodePen" src="https://img.shields.io/static/v1?label&message=/HamzaRafique&color=000000&style=for-the-badge&logo=codepen" height="22px" />
 </a>
-</br
+</br>
+[![GitHub repo language stats](https://img.shields.io/github/languages/count/Hamza-Rafique/Hamza-Rafique?label=Languages)](#languages)
 Born in Pakistan   Living in Bahrain
 Email: hamzarafique964@gmail.com  
 Mobile: +973 32380244 
