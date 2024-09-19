@@ -1,0 +1,15 @@
+name: Generate Language Badge
+on:
+  push:
+    branches: [main]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Generate Language Badge
+        uses: shields-io/github-language-stats-action@v1
+        with:
+          repo: Hamza-Rafique/Hamza-Rafique
+          label: Languages
+          cache: true
