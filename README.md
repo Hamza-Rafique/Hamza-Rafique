@@ -55,7 +55,6 @@ WhatsApp: +92 3056168840
 LinkedIn: [hamza-rafique-mehar](https://www.linkedin.com/in/hamza-rafique-mehar/)  
 Portfolio: [hamza-rafique.netlify.app](https://hamza-rafique.netlify.app/)
 
-
 [![GitHub repo language stats](https://img.shields.io/github/languages/count/Hamza-Rafique/Hamza-Rafique?label=Languages)](#languages)
 
 ## Summary
