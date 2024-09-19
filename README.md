@@ -47,14 +47,16 @@
 <a href="https://codepen.io/Hamza-Rafique">
     <img alt="link to my CodePen" src="https://img.shields.io/static/v1?label&message=/HamzaRafique&color=000000&style=for-the-badge&logo=codepen" height="22px" />
 </a>
-</br>
-[![GitHub repo language stats](https://img.shields.io/github/languages/count/Hamza-Rafique/Hamza-Rafique?label=Languages)](#languages)
+</br
 Born in Pakistan   Living in Bahrain
 Email: hamzarafique964@gmail.com  
 Mobile: +973 32380244 
 WhatsApp: +92 3056168840  
 LinkedIn: [hamza-rafique-mehar](https://www.linkedin.com/in/hamza-rafique-mehar/)  
 Portfolio: [hamza-rafique.netlify.app](https://hamza-rafique.netlify.app/)
+
+
+[![GitHub repo language stats](https://img.shields.io/github/languages/count/Hamza-Rafique/Hamza-Rafique?label=Languages)](#languages)
 
 ## Summary
 
