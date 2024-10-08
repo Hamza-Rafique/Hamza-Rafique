@@ -1,6 +1,6 @@
 ![Alt Text](https://github.com/Carol42/Carol42/raw/main/assets/header.png)
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Hamza;He/him;Front-end+Engineer+;MERN stack Developer;UI+Developer;Sotrybook developer; Data +Science + AI+ Student" alt="Computer Engineering Student, pakistan front-end developer"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Hamza;He/him;Front-end+Engineer+;MERN stack Developer;UI+Developer;Sotrybook developer; Data +Science + AI" alt="Computer Engineering Student, pakistan front-end developer"></a>
 </div>
 
 <h2>:bulb: Languages & Frameworks I code in</h2>
@@ -12,7 +12,18 @@
 <code><img title="NodeJS" alt="node js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>
 <code> <img title="Markdown" alt="markdown" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /></code>
 <code> <img title="Next.js" alt="next.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /></code>
-<code> <img title="Python" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> </code>
+
+<code><img title="Python" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
+<code><img title="NumPy" alt="NumPy" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /></code>
+<code><img title="Pandas" alt="Pandas" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /></code>
+<code><img title="SciPy" alt="SciPy" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" /></code>
+<code><img title="Matplotlib" alt="Matplotlib" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" /></code>
+<code><img title="Seaborn" alt="Seaborn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" /></code>
+<code><img title="scikit-learn" alt="Scikit-learn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" /></code>
+<code><img title="TensorFlow" alt="TensorFlow" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" /></code>
+<code><img title="Keras" alt="Keras" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" /></code>
+<code><img title="PyTorch" alt="PyTorch" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" /></code>
+
 
 </br></br>
 
