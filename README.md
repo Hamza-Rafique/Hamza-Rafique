@@ -82,7 +82,7 @@ Passionate about pixel-perfect designs, innovative solutions, and new technologi
 ### Software Engineer at Information & eGovernment Authority
 _Apr 2024 - Present ·_
 
-We are building user-friendly government applications (front-end, back-end) with GIS integration (maps)—experience with end-user & office staff projects.
+ - We are building user-friendly government applications (front-end, back-end) with GIS integration (maps)—experience with end-user & office staff projects.
 
 
 ### Senior Software Engineer at Rapidev
@@ -115,10 +115,10 @@ for e-commerce and enterprise applications. The Design System includes support f
 
 
 
-### FrontEnd Developer at Encoder solutions
+### FrontEnd Developer at Encoder Solutions
 _Mar 2018 - Jan 2020 (1 year 11 months)_
 
-Assigning tasks to the teammates as well as giving them ideas on how to do them. Give reports to the managing director of teammates on a daily basis.
+ - Assigning tasks to the teammates as well as giving them ideas on how to do them. Give reports to the managing director of teammates daily.
 
 ---
 
