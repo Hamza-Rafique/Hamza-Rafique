@@ -1,6 +1,6 @@
 ![Alt Text](https://github.com/Carol42/Carol42/raw/main/assets/header.png)
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Hamza;He/him;Front-end+Engineer+;MERN stack Developer;UI+Developer;Sotrybook developer; Data +Science + AI" alt="Computer Engineering Student, pakistan front-end developer"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Hamza;He/him;Front-end+Engineer+;MERN stack Developer;UI+Developer;Sotrybook developer; Data +Science + AI" alt="Computer Engineering Student,Front-end developer"></a>
 </div>
 
 <h2>:bulb: Languages & Frameworks I code in</h2>
