@@ -84,22 +84,22 @@ Passionate about pixel-perfect designs, innovative solutions, and new technologi
 
 ### Software Engineer at Information & eGovernment Authority
 _Apr 2024 - Present ·_
- - ● Building secure, scalable government applications using Java Spring Boot  Microservices React.js, Next.js, Angular, Node.js, GraphQL, Kafka, and Elasticsearch, PostgreSQL 
- - ● Implemented cryptography and security best practices to safeguard public data.
- - ● Collaborated with cross-functional teams to deliver user-friendly and effi cient e-services.-
+ -  Building secure, scalable government applications using Java Spring Boot  Microservices React.js, Next.js, Angular, Node.js, GraphQL, Kafka, and Elasticsearch, PostgreSQL 
+ -  Implemented cryptography and security best practices to safeguard public data.
+ -  Collaborated with cross-functional teams to deliver user-friendly and effi cient e-services.-
 
 ### Senior Software Engineer at Rapidev
 _March 2022 - Apr 2024_
- - ● Led a team of developers on frontend and UI solutions with React.js, Next.js, and mapping libraries. 
- - ● Partnered with GIS and backend teams to integrate geospatial technologies into applications.
- - ● Designed scalable, component-driven architectures and mentored junior developers.
+ - Led a team of developers on frontend and UI solutions with React.js, Next.js, and mapping libraries. 
+ - Partnered with GIS and backend teams to integrate geospatial technologies into applications.
+ - Designed scalable, component-driven architectures and mentored junior developers.
 
 ### Software Engineer at mobileLIVE
 _Feb 2020 - Mar 2022 (2 years 2 months)_
-- ● Telecom & Banking Projects: Delivered web apps for Freedom Mobile, TELUS, CIBC using React, GraphQL, and Node.js,Elasticsearch.
-- ● Developed fi nancial applications ensuring compliance with strict security and privacy standards.
-- ● Created Friday Design System: Reusable, accessible components for React & Angular across multiple brands.
-- ● Streamlined CI/CD pipelines on Azure DevOps, reducing deployment time by 40%.
+-  Telecom & Banking Projects: Delivered web apps for Freedom Mobile, TELUS, CIBC using React, GraphQL, and Node.js,Elasticsearch.
+-  Developed fi nancial applications ensuring compliance with strict security and privacy standards.
+-  Created Friday Design System: Reusable, accessible components for React & Angular across multiple brands.
+-  Streamlined CI/CD pipelines on Azure DevOps, reducing deployment time by 40%.
 - 
 ---
 
@@ -122,40 +122,40 @@ _I.cs, Computer Science, 2013 - 2015_
 ## Skills
 
 ### Frontend Development
-- ● JavaScript (ES6+)
-- ● TypeScript
-- ● React.js
-- ● Next.js
-- ● Angular
-- ● HTML5
-- ● CSS3 (Cascading Style Sheets)
+-  JavaScript (ES6+)
+-  TypeScript
+-  React.js
+-  Next.js
+-  Angular
+-  HTML5
+-  CSS3 (Cascading Style Sheets)
 
 ### UI & Styling
-- ● Tailwind CSS
-- ● Bootstrap
-- ● Styled Components
-- ● Responsive Design
-- ● Pixel-Perfect UI Implementation
+-  Tailwind CSS
+-  Bootstrap
+-  Styled Components
+-  Responsive Design
+-  Pixel-Perfect UI Implementation
 
 ### State Management & Architecture
-- ● Redux Toolkit (RTK)
-- ● Component-Driven Development
-- ● Storybook
+-  Redux Toolkit (RTK)
+-  Component-Driven Development
+-  Storybook
 
 ### Backend & APIs
-- ● Node.js
-- ● RESTful APIs
-- ● Expressjs
-- ● Nestjs
+-  Node.js
+-  RESTful APIs
+-  Expressjs
+-  Nestjs
 
 
 ###  AI & Intelligent Features
-- ● AI-powered UI Integration
-- ● OpenAI / LLM API Integration
-- ● Prompt Engineering (UI-focused)
-- ● AI Chatbot Frontend Development
-- ● AI-driven Form Validation & Automation
-- ● Data Visualization for AI Outputs
+-  AI-powered UI Integration
+-  OpenAI / LLM API Integration
+-  Prompt Engineering (UI-focused)
+-  AI Chatbot Frontend Development
+-  AI-driven Form Validation & Automation
+-  Data Visualization for AI Outputs
 
 ###  Web3 & Emerging Tech
 - ● Web3.js
