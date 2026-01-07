@@ -1,6 +1,9 @@
 ![Alt Text](https://github.com/Carol42/Carol42/raw/main/assets/header.png)
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Hamza;He/him;Front-end+Engineer+;MERN stack Developer;UI+Developer;Sotrybook developer; Data +Science + AI" alt="Computer Engineering Student,Front-end developer"></a>
+
+# Hamza Rafique - Full stack  Engineer with AI Experience
+
+
 </div>
 
 <h2>:bulb: Languages & Frameworks I code in</h2>
@@ -81,45 +84,23 @@ Passionate about pixel-perfect designs, innovative solutions, and new technologi
 
 ### Software Engineer at Information & eGovernment Authority
 _Apr 2024 - Present ·_
-
- - We are building user-friendly government applications (front-end, back-end) with GIS integration (maps)—experience with end-user & office staff projects.
-
+ - ● Building secure, scalable government applications using Java Spring Boot  Microservices React.js, Next.js, Angular, Node.js, GraphQL, Kafka, and Elasticsearch, PostgreSQL 
+ - ● Implemented cryptography and security best practices to safeguard public data.
+ - ● Collaborated with cross-functional teams to deliver user-friendly and effi cient e-services.-
 
 ### Senior Software Engineer at Rapidev
 _March 2022 - Apr 2024_
-
- - As a Senior frontend & UI and senior React developer(HTML, CSS, JavaScript Nextjs) at Rapidev, I had the opportunity to work closely with various teams within the organization, including management, the GIS team, the mapping library, as well as the backend and data sciences teams. Through my experiences working with these teams, I gained valuable insight into the overall functioning of the company and its strategic direction. 
-
-- My primary responsibility as a team lead was to guide my team of developers in the design, development, and deployment of various web-based applications using React. Working closely with the management team, I helped to identify business objectives and translate them into technical requirements that my team could deliver. Through regular communication and collaboration with the GIS team, I gained a deeper understanding of how mapping technologies were being utilized within Rapidev and helped to integrate these technologies into our applications.
-
-
+ - ● Led a team of developers on frontend and UI solutions with React.js, Next.js, and mapping libraries. 
+ - ● Partnered with GIS and backend teams to integrate geospatial technologies into applications.
+ - ● Designed scalable, component-driven architectures and mentored junior developers.
 
 ### Software Engineer at mobileLIVE
 _Feb 2020 - Mar 2022 (2 years 2 months)_
-
-- **Project:** E-commerce platform by Freedom Mobile based in Canada where Users can select any device according to the purchased plan. Worked as a Fullstack Developer on the frontend and backend side in a Scrum team of 12 developers. Revamped the complete frontend with React.js and Redux-Saga Wrote unit tests of the container components, integrated APIs, managed the application's global state with Redux-Saga, and made technical documentation. Built feature to streamline deployment with CI/CD utilizing Azure DevOps platform. Worked on the backend within APIs by following REST architecture 
-using Node.js with a monolithic approach. Implemented pagination, authentication, cron-job, and authorization on backend. 
-
-- **Telus:**
-Telus is a leading telecommunications company in Canada, providing a range of services including internet, phone, and television to consumers and businesses. 
-As part of your work with Telus, you likely collaborated with their development team to build web applications using React and GraphQL. 
-With React and GraphQL, you likely built responsive and interactive web applications that could handle large amounts of data efficiently. 
-
-- **CIBC:**
-CIBC is a major financial institution in Canada, offering banking, investment, and other financial services to customers. 
-As part of your work with CIBC, you likely used React and GraphQL to build applications that helped manage customer accounts, transactions, and other financial data. 
-React and GraphQL's flexibility and scalability likely helped you build applications that could handle complex financial transactions and meet CIBC's requirements 
-
-- **Friday :**
-for e-commerce and enterprise applications. The Design System includes support for React, Angular and Static Components which are highly reusable for multi-brand experiences. The open-source stack includes Figma Design Kit, Storybook-based documentation of UI components, and code repositories for developer experience.
-
-
-
-### FrontEnd Developer at Encoder Solutions
-_Mar 2018 - Jan 2020 (1 year 11 months)_
-
- - Assigning tasks to the teammates as well as giving them ideas on how to do them. Give reports to the managing director of teammates daily.
-
+- ● Telecom & Banking Projects: Delivered web apps for Freedom Mobile, TELUS, CIBC using React, GraphQL, and Node.js,Elasticsearch.
+- ● Developed fi nancial applications ensuring compliance with strict security and privacy standards.
+- ● Created Friday Design System: Reusable, accessible components for React & Angular across multiple brands.
+- ● Streamlined CI/CD pipelines on Azure DevOps, reducing deployment time by 40%.
+- 
 ---
 
 ## Education
@@ -140,19 +121,46 @@ _I.cs, Computer Science, 2013 - 2015_
 
 ## Skills
 
-- Front-end Development
-- JavaScript
-- React.js
-- TypeScript
-- Next.js
-- HTML
-- Cascading Style Sheets (CSS)
-- Web3.js
-- Figma (Software)
-- Node.js
-- Angular
-- Stroybook
-- Redux RTK
-- Tailwind Css
-- bootstrap
-- styledcomponent
+### Frontend Development
+- ● JavaScript (ES6+)
+- ● TypeScript
+- ● React.js
+- ● Next.js
+- ● Angular
+- ● HTML5
+- ● CSS3 (Cascading Style Sheets)
+
+### UI & Styling
+- ● Tailwind CSS
+- ● Bootstrap
+- ● Styled Components
+- ● Responsive Design
+- ● Pixel-Perfect UI Implementation
+
+### State Management & Architecture
+- ● Redux Toolkit (RTK)
+- ● Component-Driven Development
+- ● Storybook
+
+### Backend & APIs
+- ● Node.js
+- ● RESTful APIs
+- ● Expressjs
+- ● Nestjs
+
+
+###  AI & Intelligent Features
+- ● AI-powered UI Integration
+- ● OpenAI / LLM API Integration
+- ● Prompt Engineering (UI-focused)
+- ● AI Chatbot Frontend Development
+- ● AI-driven Form Validation & Automation
+- ● Data Visualization for AI Outputs
+
+###  Web3 & Emerging Tech
+- ● Web3.js
+- ● Blockchain-based UI Integrations
+
+###  Design & Collaboration
+- ● Figma
+- ● UI/UX Collaboration with Designers
