@@ -100,7 +100,6 @@ _Feb 2020 - Mar 2022 (2 years 2 months)_
 -  Developed fi nancial applications ensuring compliance with strict security and privacy standards.
 -  Created Friday Design System: Reusable, accessible components for React & Angular across multiple brands.
 -  Streamlined CI/CD pipelines on Azure DevOps, reducing deployment time by 40%.
-- 
 ---
 
 ## Education
@@ -122,32 +121,16 @@ _I.cs, Computer Science, 2013 - 2015_
 ## Skills
 
 ### Frontend Development
--  JavaScript (ES6+)
--  TypeScript
--  React.js
--  Next.js
--  Angular
--  HTML5
--  CSS3 (Cascading Style Sheets)
+-  JavaScript (ES6+) , TypeScript,  React.js, Next.js,  Angular, HTML5 , CSS3 (Cascading Style Sheets)  
 
 ### UI & Styling
--  Tailwind CSS
--  Bootstrap
--  Styled Components
--  Responsive Design
--  Pixel-Perfect UI Implementation
-
+-  Tailwind CSS , Bootstrap, Styled Components,  Responsive Design , Pixel-Perfect UI Implementation
+   
 ### State Management & Architecture
--  Redux Toolkit (RTK)
--  Component-Driven Development
--  Storybook
-
+-  Redux Toolkit (RTK) , Component-Driven Development , Storybook
+   
 ### Backend & APIs
--  Node.js
--  RESTful APIs
--  Expressjs
--  Nestjs
-
+-  Node.js , RESTful APIs , Expressjs , Nestjs 
 
 ###  AI & Intelligent Features
 -  AI-powered UI Integration
