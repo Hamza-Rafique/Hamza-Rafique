@@ -67,8 +67,15 @@
 ## 📈 Current Focus
 - 🔥 AI-powered web apps  
 - 🌍 Helping developers land jobs in GCC  
-- ⚡ Building high-performance scalable systems  
+- ⚡ Building high-performance scalable systems
+  
+---  
+ 
+## 🐍 Contribution Snake
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Hamza-Rafique/Hamza-Rafique/output/snake.svg" alt="snake animation" />
+</p>
 ---
 
 ## 📊 GitHub Stats
