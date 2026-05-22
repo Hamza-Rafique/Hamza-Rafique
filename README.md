@@ -110,9 +110,10 @@ Available   : Freelance · Full-Time · Mentorship · Consulting
 ## 🚀 Featured Projects
 
 <div align="center">
-<a href="https://github.com/Hamza-Rafique/hamza-rafique-verse">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hamza-Rafique&repo=hamza-rafique-verse&theme=tokyonight&border_color=30363d" />
+<a href="https://github.com/Hamza-Rafique/notification-service">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hamza-Rafique&repo=notification-service&theme=tokyonight&border_color=30363d" />
 </a>
+
 <a href="https://github.com/Hamza-Rafique/SchaaKanata-Business_Management_Project">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hamza-Rafique&repo=SchaaKanata-Business_Management_Project&theme=tokyonight&border_color=30363d" />
 </a>
