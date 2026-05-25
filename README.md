@@ -109,16 +109,6 @@ Available   : Freelance · Full-Time · Mentorship · Consulting
 
 ## 🚀 Featured Projects
 
-<div align="center">
-<a href="https://github.com/Hamza-Rafique/notification-service">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hamza-Rafique&repo=notification-service&theme=tokyonight&border_color=30363d" />
-</a>
-
-<a href="https://github.com/Hamza-Rafique/SchaaKanata-Business_Management_Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hamza-Rafique&repo=SchaaKanata-Business_Management_Project&theme=tokyonight&border_color=30363d" />
-</a>
-</div>
-
 > 💡 **For production-grade client work and AI projects, visit [hamza-rafique.com](https://hamza-rafique.com)**
 
 ---
@@ -127,8 +117,6 @@ Available   : Freelance · Full-Time · Mentorship · Consulting
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hamza-Rafique&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=30363d" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-Rafique&layout=compact&langs_count=8&theme=tokyonight&border_color=30363d" />
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Hamza-Rafique&theme=tokyonight&border=30363d)](https://github.com/Hamza-Rafique)
 
