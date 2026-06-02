@@ -30,7 +30,7 @@
 
 ```yaml
 Name        : Hamza Rafique
-Title       : Full-Stack Engineer (MERN | MEAN | AI)
+Title       : Full-Stack Engineer (MERN | MEAN | AI | Java Springboot)
 Location    : Bahrain 🇧🇭 (Available for GCC & Remote)
 Experience  : 6+ Years in Production-Grade Web Development
 Speciality  : Scalable Systems · AI Integration · Government Tech
