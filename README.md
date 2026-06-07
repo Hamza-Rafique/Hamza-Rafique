@@ -26,7 +26,7 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 ```yaml
 Name        : Hamza Rafique
@@ -38,11 +38,11 @@ Currently   : Senior Engineer @ Information & eGovernment Authority, Bahrain
 Available   : Freelance · Full-Time · Mentorship · Consulting
 ```
 
-> 🚀 I build **scalable web applications** that solve real business problems. With 6+ years across government systems, telecom, banking, and startups — I deliver clean architecture, not just working code.
+> I build **scalable web applications** that solve real business problems. With 6+ years across government systems, telecom, banking, and startups — I deliver clean architecture, not just working code.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 <div align="center">
 
@@ -85,7 +85,7 @@ Available   : Freelance · Full-Time · Mentorship · Consulting
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
 <table>
   <tr>
@@ -107,13 +107,13 @@ Available   : Freelance · Full-Time · Mentorship · Consulting
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 > 💡 **For production-grade client work and AI projects, visit [hamza-rafique.com](https://hamza-rafique.com)**
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -124,7 +124,7 @@ Available   : Freelance · Full-Time · Mentorship · Consulting
 
 ---
 
-## 🐍 Contribution Activity
+## Contribution Activity
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Hamza-Rafique/Hamza-Rafique/output/snake.svg" alt="Snake animation" />
@@ -132,7 +132,7 @@ Available   : Freelance · Full-Time · Mentorship · Consulting
 
 ---
 
-## 🌍 What I Offer (Services)
+## What I Offer (Services)
 
 | Service | Details |
 |---|---|
@@ -145,7 +145,7 @@ Available   : Freelance · Full-Time · Mentorship · Consulting
 
 ---
 
-## 🎯 Currently Focused On
+## Currently Focused On
 
 - 🤖 Building **AI-powered SaaS products** with LLM integrations
 - 🌍 Helping developers **land software jobs in the GCC region**
@@ -154,7 +154,7 @@ Available   : Freelance · Full-Time · Mentorship · Consulting
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
 
