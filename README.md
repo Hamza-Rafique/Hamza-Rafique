@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hamza%20Rafique&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20MERN%20%7C%20MEAN%20%7C%20AI-Driven%20Applications&descAlignY=60&descColor=a8d8ea&animation=fadeIn" />
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;Integrating+AI+Into+Real+Products;6%2B+Years+of+Full-Stack+Engineering;Based+in+Bahrain+%7C+Working+Globally)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Designing+Enterprise+Software+Platforms;Building+Secure+Digital+Identity+System;Engineering+Cloud-Native+Applications;React+Node.js+SpringBoot+AWS)](https://git.io/typing-svg)
 
 <!-- PROFILE VIEWS + SOCIAL BADGES -->
 <p>
@@ -35,10 +35,12 @@ Location    : Bahrain 🇧🇭 (Available for GCC & Remote)
 Experience  : 6+ Years in Production-Grade Web Development
 Speciality  : Scalable Systems · AI Integration · Government Tech
 Currently   : Senior Engineer @ Information & eGovernment Authority, Bahrain
-Available   : Freelance · Full-Time · Mentorship · Consulting
+Focus:   : Enterprise Platforms · Cloud Architecture · AI Systems
 ```
 
-> I build **scalable web applications** that solve real business problems. With 6+ years across government systems, telecom, banking, and startups — I deliver clean architecture, not just working code.
+> I design and build **secure, scalable enterprise platforms across government, telecom, banking, and SaaS** environments.
+
+My focus is **backend architecture, cloud-native systems, digital identity, AI integration**, and high-performance full-stack applications.
 
 ---
 
@@ -107,9 +109,31 @@ Available   : Freelance · Full-Time · Mentorship · Consulting
 
 ---
 
-## Featured Projects
+## Featured Engineering Projects
 
-> 💡 **For production-grade client work and AI projects, visit [hamza-rafique.com](https://hamza-rafique.com)**
+### 🏛️ Digital Identity Platform
+Secure identity management platform inspired by national digital identity systems.
+
+Tech:
+Node.js | Express | JWT | Microservices | Security
+
+
+### 🔐 Enterprise Authentication Service
+Production-style authentication system implementing:
+
+- JWT
+- OAuth2
+- RBAC
+- Security practices
+
+
+### ☁️ Enterprise Monitoring Platform
+Cloud-native monitoring platform using:
+
+- Spring Boot
+- AWS Lambda
+- API Gateway
+- DynamoDB
 
 ---
 
