@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hamza%20Rafique&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20MERN%20%7C%20MEAN%20%7C%20AI-Driven%20Applications&descAlignY=60&descColor=a8d8ea&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hamza%20Rafique&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Senior%20Full-Stack%20Engineer%20%7C%20Enterprise%20Platforms%20%7C%20Cloud%20%7C%20AI&descAlignY=60&descColor=a8d8ea&animation=fadeIn" />
 
 <!-- TYPING ANIMATION -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Designing+Enterprise+Software+Platforms;Building+Secure+Digital+Identity+System;Engineering+Cloud-Native+Applications;React+Node.js+SpringBoot+AWS)](https://git.io/typing-svg)
@@ -30,7 +30,7 @@
 
 ```yaml
 Name        : Hamza Rafique
-Title       : Full-Stack Engineer (MERN | MEAN | AI | Java Springboot)
+Title       : Senior Full-Stack Engineer | Enterprise Platforms | Cloud Architecture | AI Integration
 Location    : Bahrain 🇧🇭 (Available for GCC & Remote)
 Experience  : 6+ Years in Production-Grade Web Development
 Speciality  : Scalable Systems · AI Integration · Government Tech
